@@ -1,10 +1,10 @@
 {
     "owner": {
         "username": "naturalshrooms",
-        "email": "[email protected]"
+        "email": "[email protected]"
     },
     "records": {
         "CNAME": "naturalshrooms.github.io",
-        "TXT": "ca950976158cb96a05c909098cc6b7"
+        "TXT": "_github-pages-challenge-naturalshrooms.ca950976158cb96a05c909098cc6b7"
     }
 }

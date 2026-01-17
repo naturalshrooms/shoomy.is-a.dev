@@ -4,7 +4,7 @@
         "email": "[email protected]"
     },
     "records": {
-        "CNAME": "naturalshrooms.github.io"
+        "CNAME": "naturalshrooms.github.io",
         "TXT": "ca950976158cb96a05c909098cc6b7"
     }
 }
